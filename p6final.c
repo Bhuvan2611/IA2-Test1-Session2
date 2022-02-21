@@ -1,14 +1,4 @@
-/* What is a string?
-   Array of characters terminated by '\0'.
 
-   char a[100]='Sanvi";
-   a[0] - 'S'
-   a[1]- 'a'
-   a[2] - 'n'
-   a[3] - 'v'
-   a[4] - 'i'
-   a[5] - '\0'
-*/
 
 void get_string(char *s)
 {
