@@ -6,7 +6,7 @@ int input()
   printf("Enter the number\n");
   scanf("%d",&a);
   return a;
-}
+  }
 
 int find_gcd(int a, int b)
 {
