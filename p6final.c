@@ -30,7 +30,7 @@ char *str_reverse(char *str)
   n = string_length(str);
   n--;
   for (int i = 0; i< n/2; i++)
-  {
+    {
      t= str[i];
      str[i] = str[n-i];
      str[n-i] = t;
