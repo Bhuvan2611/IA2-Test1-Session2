@@ -28,4 +28,4 @@ void main(){
   c=input_side();
   result=check_scalene(a,b,c);
   output(a,b,c,result);
-}
+  }
